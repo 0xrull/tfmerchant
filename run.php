@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 $pina = "555456"; // PIN AKUN
-$merchant = "5414151d-b055-4bf3-8b38-0a69ac305034"; //MERCHANT ID SELLER
+$merchant = ""; //MERCHANT ID SELLER
 $amount = "1"; //Nominal TF
 $i = 0;
 $listcode = $argv[1];
